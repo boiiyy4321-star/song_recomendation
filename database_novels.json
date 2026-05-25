@@ -1,0 +1,38 @@
+{
+  "koleksi_novel": {
+    "fantasi": [
+      {
+        "judul": "The Chronicles of Nebula",
+        "penulis": "Aria Stark",
+        "sinopsis": "Petualangan seorang penyihir muda mencari bintang yang hilang untuk menyelamatkan kerajaannya.",
+        "rating": 4.8,
+        "tags": ["Sihir", "Petualangan", "Persahabatan"]
+      },
+      {
+        "judul": "Gerbang Waktu",
+        "penulis": "Rian Wijaya",
+        "sinopsis": "Menemukan jam saku kuno yang bisa membuka portal ke masa lalu.",
+        "rating": 4.5,
+        "tags": ["Time Travel", "Misteri"]
+      }
+    ],
+    "romantis": [
+      {
+        "judul": "Sketsa Senja",
+        "penulis": "Citra Lestari",
+        "sinopsis": "Kisah dua pelukis jalanan yang saling menemukan arti hidup lewat kanvas.",
+        "rating": 4.6,
+        "tags": ["Drama", "Seni", "Bikin Baper"]
+      }
+    ],
+    "misteri": [
+      {
+        "judul": "Jejak Karbon",
+        "penulis": "Dika Pratama",
+        "sinopsis": "Seorang detektif swasta menyelidiki hilangnya seorang miliarder tanpa jejak di ruang tertutup.",
+        "rating": 4.9,
+        "tags": ["Detektif", "Teka-teki", "Thriller"]
+      }
+    ]
+  }
+}
