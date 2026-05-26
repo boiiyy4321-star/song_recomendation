@@ -4,11 +4,11 @@ import streamlit as st
 st.set_page_config(
     page_title="NovelFinder", 
     page_icon="📚", 
-    layout="wide"  # Keep wide layout for structured grid space
+    layout="wide"  
 )
 
 def home_page() -> None:
-    # --- HERO SECTION ---
+    
     st.title("Welcome to NovelFinder!")
     st.subheader("Your ultimate gateway to finding your next favorite book.")
     st.markdown(
@@ -20,7 +20,7 @@ def home_page() -> None:
     st.divider()
 
 
-    # --- FEATURED BOOK OF THE MONTH ---
+   
     st.write("### Book of the Month Spotlight")
     
     featured_book = {
@@ -32,7 +32,7 @@ def home_page() -> None:
     }
 
     with st.container(border=True):
-        col_img, col_txt = st.columns([1, 3]) # Balanced ratio for book image and description
+        col_img, col_txt = st.columns([1, 3]) 
         with col_img:
             st.image(featured_book["image_url"], use_container_width=True)
         with col_txt:
@@ -43,7 +43,7 @@ def home_page() -> None:
 
     st.divider()
 
-    # --- DISCOVER FEATURES SECTION ---
+    
     st.write("### Discover The Features")
     col_rec, col_bot = st.columns(2)
     
@@ -65,7 +65,7 @@ def home_page() -> None:
 
     st.divider()
 
-    # --- TRENDING GENRES WITH IMAGES ---
+    
     st.write("### 🏷️ Explore Popular Genres")
     g1, g2, g3, g4 = st.columns(4)
     
@@ -79,11 +79,11 @@ def home_page() -> None:
         st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlFZCXXrdmqDsQanRMTnY1HsdY8URFw_DpQ&s", use_container_width=True, caption="Thriller")
 
 
-# --- SIDEBAR CONFIGURATION ---
+
 st.sidebar.title("NovelFinder")
 st.sidebar.write("Find Your Next Read!")
 
-# --- NAVIGATION ROUTING ---
+
 pages = [
     st.Page(home_page, title="Home", default=True),
     st.Page("pages/recommendation.py", title="Top Recommendation"),
