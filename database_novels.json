@@ -1,0 +1,89 @@
+{
+  "koleksi_novel": {
+    "fantasy": [
+      {
+        "judul": "The Way of Kings",
+        "penulis": "Brandon Sanderson",
+        "rating": 4.66,
+        "sinopsis": "The story follows three central figures—a disgraced soldier turned slave, a highprince haunted by visions of ancient legends, and a desperate young scholar—whose paths intertwine as an ancient, cataclysmic war threatens to return",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJN-bp7M9URCmOWEeS8UbB79yz0aWMfekEqF-2ngd901m0tiyWq1vukqo5kLoXcaHDxRB&s=10"
+      },
+      {
+        "judul": "Harry Potter and the Prisoner of Azkaban",
+        "penulis": "J.K. Rowling",
+        "rating": 4.58,
+        "sinopsis": "In J.K. Rowling's third novel, Harry Potter and the Prisoner of Azkaban, 13-year-old Harry returns to Hogwarts only to learn that Sirius Black, a maniacal mass-murderer and Voldemort loyalist, has escaped Azkaban prison.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTwdZLPdiASzDcwCvqqSlNDSJwRJDNk2LaYw&s"
+      },
+      {
+        "judul": "A Court of Mist and Fury",
+        "penulis": "Sarah J. Maas",
+        "rating": 4.63,
+        "sinopsis": "The smash-hit viral BookTok sensation. Feyre must navigate a deadly web of politics, dark passion, and colossal magical wars after striking a bargain with the terrifying High Lord of the Night Court.",
+        "image_url": "https://m.media-amazon.com/images/I/71MjvEtoI5L._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+      },
+      {
+        "judul": "The Hobbit",
+        "penulis": "J.R.R. Tolkien",
+        "rating": 4.31,
+        "sinopsis": "The timeless, legendary prelude to The Lord of the Rings. Bilbo Baggins, a home-loving hobbit, is swept into a dangerous quest by a wizard and thirteen dwarves to reclaim a hoard of gold from a dragon.",
+        "image_url": "https://embed.cdn.pais.scholastic.com/v1/channels/tso/products/identifiers/isbn/9780345534835/primary/renditions/700"
+      }
+    ],
+    "sci-fi": [
+      {
+        "judul": "Dune",
+        "penulis": "Frank Herbert",
+        "rating": 4.27,
+        "sinopsis": "The journey of Paul Atreides on the dangerous desert planet Arrakis as he seeks to claim the spice 'Melange', the most valuable commodity in the universe.",
+        "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg"
+      },
+      {
+        "judul": "Project Hail Mary",
+        "penulis": "Andy Weir",
+        "rating": 4.51,
+        "sinopsis": "A lone astronaut awakens in space with no memory of his mission, and he must use science to complete his quest to save Earth.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIgMe44qo7ViClG_75gmeAaneBmIZ8o71MNZ7IP6jY0uDjQAZJFm23w_5iGXc4rus--Po&s"
+      },
+      {
+        "judul": "The Hunger Games",
+        "penulis": "Suzanne Collins",
+        "rating": 4.35,
+        "sinopsis": "The dystopian mega-bestseller. In a dark future world, Katniss Everdeen volunteers in place of her younger sister to survive a televised, nation-wide fight to the death controlled by the Capitol.",
+        "image_url": "https://m.media-amazon.com/images/I/71un2hI4mcL._AC_UF1000,1000_QL80_.jpg"
+      }
+    ],
+    "romance": [
+      {
+        "judul": "Pride and Prejudice",
+        "penulis": "Jane Austen",
+        "rating": 4.29,
+        "sinopsis": "The classic story of love, misunderstanding, and social class between the intelligent Elizabeth Bennet and the proud Mr. Darcy.",
+        "image_url": "https://m.media-amazon.com/images/I/81Scutrtj4L._UF1000,1000_QL80_.jpg"
+      },
+      {
+        "judul": "It Ends with Us",
+        "penulis": "Colleen Hoover",
+        "rating": 4.07,
+        "sinopsis": "The massive multi-million copy global bestseller. Lily overcomes a rough childhood to open her own business, but finding love with a charming neurosurgeon forces her into difficult emotional choices.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8E9IvC5ytEdy7nNzenF7dctS-E2DnwHmzd9Ts7sevlqfGRHup1ctcukT6IwXeM7f61BYKw&s=10"
+      }
+    ],
+    "thriller": [
+      {
+        "judul": "The Silent Patient",
+        "penulis": "Alex Michaelides",
+        "rating": 4.16,
+        "sinopsis": "The record-breaking psychological thriller. A famous painter shoots her husband five times and completely stops speaking. A determined criminal psychotherapist risks his career to unlock her silence.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUbXTJap-DJXwDwC1wbcaUuiJFw0tKE-DS4ODOItaYaBe11WOxiwHf26h18CmqA4wYz7Qog&s=10"
+      },
+      {
+        "judul": "And Then There Were None",
+        "penulis": "Agatha Christie",
+        "rating": 4.27,
+        "sinopsis": "The best-selling mystery novel in history. Ten strangers are lured to an isolated island mansion by a mysterious host, where they are executed one by one according to a creepy nursery rhyme.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c8BBMk8pv0qUtM2_3xI5AQApEl18fScn3g&s"
+      }
+    ]
+  }
+}
