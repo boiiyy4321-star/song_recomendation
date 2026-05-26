@@ -26,7 +26,7 @@ else:
         with st.chat_message("assistant", avatar="🫧"):
             st.markdown(f"### **{buku.get('judul', 'Book Title')}**")
             
-            col1, col2 = st.columns([1, 3]) # Gives clean poster layout scale
+            col1, col2 = st.columns([1, 3]) 
             
             with col1:
                 if buku.get("image_url"):
