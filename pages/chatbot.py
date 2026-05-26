@@ -45,7 +45,6 @@ if "riwayat_chat" not in st.session_state:
         {"role": "assistant", "teks": "Hey gng, Looking for a fun novel to read? What's your mood today? What genre are you looking for (Fantasy, Romance, or Mystery)?"}
     ]
 
-# Tampilkan kembali semua pesan lama ke layar
 for pesan in st.session_state.riwayat_chat:
     with st.chat_message(pesan["role"]):
         st.markdown(pesan["teks"])
